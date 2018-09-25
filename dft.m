@@ -12,3 +12,4 @@ n = 0:N-1;
 for k=0:N-1
   Xk(k+1) = exp(-j*2*pi*k*n/N)*x;
 end
+end
