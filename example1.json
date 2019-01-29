@@ -2,7 +2,7 @@
   "entry": {
     "data1": {
       "description": "Info here",
-      "polarion": "PREFIX-1234",
+      "polarion": "@ DP-234",
       "more_stuff": [
         "stuff1",
         "stuff2",
@@ -10,7 +10,7 @@
       ]
     },
     "data2": {
-      "polarion": "@ DP-393",
+      "polarion": "@ DP-528",
       "other": "info"
     }
   },
