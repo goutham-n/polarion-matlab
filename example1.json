@@ -1,4 +1,4 @@
-{
+[{
   "entry": {
     "data1": {
       "description": "Info here",
@@ -17,4 +17,24 @@
   "another_entry": {
     "polarion": "@ DP-477"
   }
-}
+},
+{
+  "entry2": {
+    "data1": {
+      "description": "Info here",
+      "polarion": "PREFIX-1234",
+      "more_stuff": [
+        "stuff1",
+        "stuff2",
+        "stuff3"
+      ]
+    },
+    "data2": {
+      "polarion": "@ DP-525",
+      "other": "info"
+    }
+  },
+  "another_entry": {
+    "polarion": "@ DP-474"
+  }
+}]
