@@ -1,20 +1,20 @@
-o	{
-o	   "entry": {
-o	           "data1": {
-o	                   "description": "Info here",
-o	                   "polarion": "PREFIX-1234",
-o	                   "more_stuff": [
-o	                          "stuff1",
-o	                          "stuff2",
-o	                          "stuff3"
-o	                   ]
-o	           },
-o	           "data2": {
-o	                   "polarion": "@ DP-526",
-o	                   "other": "info"
-o	           }
-o	   },
-o	   "another_entry": {
-o	           "polarion": "@ DP-477"
-o	   }
-o	}
+{
+  "entry": {
+    "data1": {
+      "description": "Info here",
+      "polarion": "PREFIX-1234",
+      "more_stuff": [
+        "stuff1",
+        "stuff2",
+        "stuff3"
+      ]
+    },
+    "data2": {
+      "polarion": "@ DP-526",
+      "other": "info"
+    }
+  },
+  "another_entry": {
+    "polarion": "@ DP-477"
+  }
+}
