@@ -2,7 +2,7 @@
   "entry": {
     "data1": {
       "description": "Info here",
-      "polarion": " @wi DP-476",
+      "polarion": "@wi DP-476",
       "more_stuff": [
         "stuff1",
         "stuff2",
@@ -10,11 +10,11 @@
       ]
     },
     "data2": {
-      "polarion": "@wi DP-528 test comments ",
+      "polarion": "@wi DP-528 test comments",
       "other": "info"
     }
   },
   "another_entry": {
-    "polarion": "@wi  DP-528"
+    "polarion": "@wi DP-528 test comments"
   }
 }
